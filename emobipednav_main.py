@@ -8,7 +8,7 @@ import time
 from algos.SAC_AE.sac_ae import SacAeAgent
 from algos.SAC_AE.utils import ReplayBuffer, eval_policy_mode, set_seed_everywhere
 from info import *
-from env_sac_ae_mannul import CrowdSim
+from env_emobipednav import CrowdSim
 from torch.utils.tensorboard import SummaryWriter
 from threading import Lock
 
