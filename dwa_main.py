@@ -4,7 +4,7 @@ import os
 
 
 from info import *
-from env_sac_ae import CrowdSim
+from env_emobipednav import CrowdSim
 
 
 # digit in mujoco
