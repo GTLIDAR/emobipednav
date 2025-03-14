@@ -1,6 +1,6 @@
 Social navigation with SAC_AE algorithm
 #  EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning
-- [video] (https://youtu.be/fNNL56sTSjY?si=sLgWn5P6o4MndMzl), [project](https://gatech-lidar.github.io/emobipednav.github.io/)
+- [video](https://youtu.be/fNNL56sTSjY?si=sLgWn5P6o4MndMzl), [project-website](https://gatech-lidar.github.io/emobipednav.github.io/)
 - the networks used in this repo are partially from [sac-ae](https://github.com/denisyarats/pytorch_sac_ae) 
 
 # environment
