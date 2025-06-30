@@ -16,7 +16,7 @@ Social navigation with SAC_AE algorithm
 # simulation with simplified LIP model and digit_mujoco
 - ```git clone https://github.com/sybrenstuvel/Python-RVO2.git```
 - conda activate torch
-- pip install Cython
+- `pip install Cython torchviz`
 - inside Python-RVO2, ```python setup.py build```, and then ```python setup.py install```.
 
 - inside C_library, ```python setup.py build_ext --inplace```
